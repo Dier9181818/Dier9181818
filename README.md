@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Dier9181818
+- 👩🏻‍💻 I'm a data scientist with experimental high energy physics background.
 - 👀 I’m interested in playing drums and mountain climbing.
 - 🌱 I’m currently learning some skills about data science.
 
