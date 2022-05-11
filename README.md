@@ -1,8 +1,9 @@
 👩🏻‍💻 I'm a data scientist with Experimental High Energy Physics (EHEP) background.
 
- • Python, C++
- • MySQL
- • Machine Learning
+- Python, C++
+- MySQL
+- Machine Learning
+
 
 Love to...
 - 🥁 playing drums
