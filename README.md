@@ -1,7 +1,15 @@
-- 👋 Hi, I’m @Dier9181818
-- 👩🏻‍💻 I'm a data scientist with experimental high energy physics background.
-- 👀 I’m interested in playing drums and mountain climbing.
-- 🌱 I’m currently learning some skills about data science.
+👩🏻‍💻 I'm a data scientist with Experimental High Energy Physics (EHEP) background.
+
+ • Python, C++
+ • MySQL
+ • Machine Learning
+
+Love to...
+- 🥁 playing drums
+- ⛰ mountain climbing.
+- 📚 read about neuroscience and psychology.
+
+
 
 <!---
 Dier9181818/Dier9181818 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
