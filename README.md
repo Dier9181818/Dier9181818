@@ -7,8 +7,9 @@
 
 Love to...
 - 🥁 playing drums
-- ⛰ mountain climbing.
-- 📚 read about neuroscience and psychology.
+- 👩🏻‍🎨 drawing
+- ⛰ mountain climbing
+- 📚 read about neuroscience and psychology
 
 
 
