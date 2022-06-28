@@ -1,4 +1,4 @@
-👩🏻‍💻 I'm a data scientist with Experimental High Energy Physics (EHEP) background.
+👩🏻‍💻 I'm a PM with Experimental High Energy Physics (EHEP) background.
 
 - Python, C++
 - MySQL
@@ -9,7 +9,7 @@ Love to...
 - 🥁 playing drums
 - 👩🏻‍🎨 drawing
 - ⛰ mountain climbing
-- 📚 read about neuroscience and psychology
+- 📚 read abt neuroscience and psychology
 
 
 
