@@ -1,12 +1,13 @@
 👩🏻‍💻 I'm a Data scientist with Experimental High Energy Physics (EHEP) background.
 
-- Python, C++
+- C++, Python, Linux
 - Machine Learning
 
 
 Love to...
-- 🥁 playing drums
-- ⛰ mountain climbing
+- 🗣️ learn different languages (Russian, Arabic, Pashto)
+- 🥁 play the drums
+- ⛰ trekking and mountain climbing
 - 📚 read about psychology
 
 
